@@ -1,6 +1,6 @@
 # pip/Travis CI Example
 
-Shows a working setup for Travis integration to extract project dependencies as a test
+Shows a working setup for Travis integration to extract project dependencies
 
 ## Travis CI Setup
 
